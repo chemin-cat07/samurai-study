@@ -1,0 +1,88 @@
+[19-Nov-2023 04:06:31 UTC] フックの cron 再予約イベントエラー: wp_privacy_delete_old_export_files、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"hourly","args":[],"interval":3600}
+[21-Nov-2023 02:53:40 UTC] PHP Warning:  Array to string conversion in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\home.php on line 165
+[21-Nov-2023 12:21:14 UTC] フックの cron 再予約イベントエラー: wp_privacy_delete_old_export_files、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"hourly","args":[],"interval":3600}
+[23-Nov-2023 10:52:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\sidebar.php on line 38
+[23-Nov-2023 11:09:06 UTC] Sync process for Gutenberg Blocks has started.
+[23-Nov-2023 11:09:06 UTC] CATEGORY:Importing categories..
+[23-Nov-2023 11:09:06 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[23-Nov-2023 11:09:06 UTC] CATEGORY:Completed category import.
+[23-Nov-2023 11:09:06 UTC] BLOCK: Getting Total Blocks
+[23-Nov-2023 11:09:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[23-Nov-2023 11:09:06 UTC] BLOCK: Requests count 4
+[23-Nov-2023 11:09:06 UTC] BLOCK: Importing request 1 ..
+[23-Nov-2023 11:09:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[23-Nov-2023 11:09:06 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[23-Nov-2023 11:09:06 UTC] BLOCK: Completed request 1
+[23-Nov-2023 11:09:06 UTC] BLOCK: Importing request 2 ..
+[23-Nov-2023 11:09:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[23-Nov-2023 11:09:06 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[23-Nov-2023 11:09:06 UTC] BLOCK: Completed request 2
+[23-Nov-2023 11:09:06 UTC] BLOCK: Importing request 3 ..
+[23-Nov-2023 11:09:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[23-Nov-2023 11:09:07 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[23-Nov-2023 11:09:07 UTC] BLOCK: Completed request 3
+[23-Nov-2023 11:09:07 UTC] BLOCK: Importing request 4 ..
+[23-Nov-2023 11:09:07 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[23-Nov-2023 11:09:07 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[23-Nov-2023 11:09:07 UTC] BLOCK: Completed request 4
+[23-Nov-2023 11:09:07 UTC] SITE: Getting Total Sites
+[23-Nov-2023 11:09:07 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[23-Nov-2023 11:09:07 UTC] SITE: Request count 2
+[23-Nov-2023 11:09:07 UTC] SITE: Importing request 1 ..
+[23-Nov-2023 11:09:07 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[23-Nov-2023 11:09:07 UTC] SITE: Storing in option ast-block-templates-sites-1
+[23-Nov-2023 11:09:07 UTC] SITE: Completed request 1
+[23-Nov-2023 11:09:07 UTC] SITE: Importing request 2 ..
+[23-Nov-2023 11:09:07 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[23-Nov-2023 11:09:07 UTC] SITE: Storing in option ast-block-templates-sites-2
+[23-Nov-2023 11:09:07 UTC] SITE: Completed request 2
+[23-Nov-2023 11:09:07 UTC] Sync process for Gutenberg Blocks is done.
+[27-Nov-2023 03:12:33 UTC] Sync process for Gutenberg Blocks has started.
+[27-Nov-2023 03:12:33 UTC] CATEGORY:Importing categories..
+[27-Nov-2023 03:12:33 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[27-Nov-2023 03:12:33 UTC] CATEGORY:Completed category import.
+[27-Nov-2023 03:12:33 UTC] BLOCK: Getting Total Blocks
+[27-Nov-2023 03:12:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[27-Nov-2023 03:12:33 UTC] BLOCK: Requests count 4
+[27-Nov-2023 03:12:33 UTC] BLOCK: Importing request 1 ..
+[27-Nov-2023 03:12:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[27-Nov-2023 03:12:33 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[27-Nov-2023 03:12:33 UTC] BLOCK: Completed request 1
+[27-Nov-2023 03:12:33 UTC] BLOCK: Importing request 2 ..
+[27-Nov-2023 03:12:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[27-Nov-2023 03:12:33 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[27-Nov-2023 03:12:33 UTC] BLOCK: Completed request 2
+[27-Nov-2023 03:12:33 UTC] BLOCK: Importing request 3 ..
+[27-Nov-2023 03:12:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[27-Nov-2023 03:12:33 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[27-Nov-2023 03:12:33 UTC] BLOCK: Completed request 3
+[27-Nov-2023 03:12:33 UTC] BLOCK: Importing request 4 ..
+[27-Nov-2023 03:12:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[27-Nov-2023 03:12:33 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[27-Nov-2023 03:12:33 UTC] BLOCK: Completed request 4
+[27-Nov-2023 03:12:33 UTC] SITE: Getting Total Sites
+[27-Nov-2023 03:12:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[27-Nov-2023 03:12:34 UTC] SITE: Request count 2
+[27-Nov-2023 03:12:34 UTC] SITE: Importing request 1 ..
+[27-Nov-2023 03:12:34 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[27-Nov-2023 03:12:34 UTC] SITE: Storing in option ast-block-templates-sites-1
+[27-Nov-2023 03:12:34 UTC] SITE: Completed request 1
+[27-Nov-2023 03:12:34 UTC] SITE: Importing request 2 ..
+[27-Nov-2023 03:12:34 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[27-Nov-2023 03:12:34 UTC] SITE: Storing in option ast-block-templates-sites-2
+[27-Nov-2023 03:12:34 UTC] SITE: Completed request 2
+[27-Nov-2023 03:12:34 UTC] Sync process for Gutenberg Blocks is done.
+[27-Nov-2023 04:33:21 UTC] PHP Warning:  Undefined array key 0 in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 16
+[27-Nov-2023 04:33:21 UTC] PHP Warning:  Attempt to read property "slug" on null in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 16
+[27-Nov-2023 04:33:21 UTC] PHP Warning:  Undefined array key 0 in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 17
+[27-Nov-2023 04:33:21 UTC] PHP Warning:  Attempt to read property "cat_name" on null in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 17
+[27-Nov-2023 08:32:48 UTC] フックの cron 再予約イベントエラー: wp_privacy_delete_old_export_files、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"hourly","args":[],"interval":3600}
+[27-Nov-2023 08:32:48 UTC] フックの cron 予約解除イベントエラー: wp_privacy_delete_old_export_files、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"hourly","args":[],"interval":3600}
+[27-Nov-2023 08:35:54 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\home.php on line 338
+[27-Nov-2023 08:36:07 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\home.php on line 338
+[27-Nov-2023 08:36:09 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\home.php on line 338
+[29-Nov-2023 01:41:00 UTC] PHP Warning:  Undefined array key 0 in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 16
+[29-Nov-2023 01:41:00 UTC] PHP Warning:  Attempt to read property "slug" on null in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 16
+[29-Nov-2023 01:41:00 UTC] PHP Warning:  Undefined array key 0 in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 17
+[29-Nov-2023 01:41:00 UTC] PHP Warning:  Attempt to read property "cat_name" on null in C:\Users\t-makihara\Local Sites\samurai-university\app\public\wp-content\themes\samurai_university\single.php on line 17
+[12-Jan-2024 05:17:21 UTC] フックの cron 再予約イベントエラー: wp_site_health_scheduled_check、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"weekly","args":[],"interval":604800}
